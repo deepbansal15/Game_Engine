@@ -6,10 +6,10 @@ A platform independent 2D game engine.
 Supported Platforms
 -------------------
 
-Mac OSX
-Linux
-Windows
-iPhone
+	Mac OSX
+	Linux
+	Windows
+	iPhone
   
 How to
 ------
